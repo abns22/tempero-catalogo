@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tempero-catalogo/static/css/main.539371d3.css",
+    "main.js": "/tempero-catalogo/static/js/main.b2dce1a7.js",
+    "static/js/488.3b4902f2.chunk.js": "/tempero-catalogo/static/js/488.3b4902f2.chunk.js",
+    "static/media/churrasco.jpg": "/tempero-catalogo/static/media/churrasco.a42dee6033c24707387f.jpg",
+    "static/media/1.jpg": "/tempero-catalogo/static/media/1.39419e5158c201685423.jpg",
+    "static/media/frango.jpg": "/tempero-catalogo/static/media/frango.0e4a5e387875eba951eb.jpg",
+    "static/media/louro.jpg": "/tempero-catalogo/static/media/louro.2a165379d579d91b948b.jpg",
+    "static/media/carne.jpg": "/tempero-catalogo/static/media/carne.622f943b9196e0a17152.jpg",
+    "static/media/macarrao.jpg": "/tempero-catalogo/static/media/macarrao.11f2599eff36d0a63c90.jpg",
+    "static/media/feijao.jpg": "/tempero-catalogo/static/media/feijao.e9d01a55ca7f4da8e379.jpg",
+    "service-worker.js": "/tempero-catalogo/service-worker.js",
+    "index.html": "/tempero-catalogo/index.html",
+    "main.539371d3.css.map": "/tempero-catalogo/static/css/main.539371d3.css.map",
+    "main.b2dce1a7.js.map": "/tempero-catalogo/static/js/main.b2dce1a7.js.map",
+    "488.3b4902f2.chunk.js.map": "/tempero-catalogo/static/js/488.3b4902f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539371d3.css",
+    "static/js/main.b2dce1a7.js"
+  ]
+}
