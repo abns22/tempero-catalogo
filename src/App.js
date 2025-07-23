@@ -111,8 +111,8 @@ function App() {
           </motion.p>
           <a
             href="https://wa.me/5599999999999?text=Olá! Gostaria de pedir um orçamento ou saber valores/sabores dos temperos."
-            target="_blank"
-            rel="noopener noreferrer"
+          target="_blank"
+          rel="noopener noreferrer"
             style={{
               marginTop: 32,
               display: 'inline-flex',
